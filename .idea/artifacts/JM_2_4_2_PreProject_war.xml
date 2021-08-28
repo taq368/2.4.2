@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JM_2.4.2_PreProject:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>JM_2.4.2_PreProject</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="JM_2.3.1_PreProject.war">
+      <element id="artifact" artifact-name="JM_2.4.2_PreProject:war exploded" />
+    </root>
+  </artifact>
+</component>
